@@ -1,6 +1,6 @@
 ## Simple Next.js Demo
 
-Watch [Next.js in 100 Seconds]()
+Watch [Next.js in 100 Seconds](https://www.youtube.com/watch?v=Sklc_fQBmcs)
 
 <!-- Enroll in the full [Next Firebase Course](https://fireship.io/courses/react-next-firebase) -->
 
